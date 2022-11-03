@@ -35,6 +35,7 @@ int main()
 
    while (item > E / 10) {
         // ...
+       cout << item << endl;
    }
 
 }
